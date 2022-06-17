@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#4b86b4</color>
+    <color name="colorPrimaryDark">#2a4d69</color>
+    <color name="colorAccent">#adcbe3</color>
+
+
+    <!--Here we are adding the COLOR values as a constants which are required to design the Add Happy Places Screen. And which is also a standard way to develop a application in android.)-->
+    <!--START-->
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#63ace5</color>
+
+    <!--END-->
+
+    <!--We have added all the colors values here which are used in designing an item for recyclerview.)-->
+    <!--START-->
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+
+    <!--All the color values used for designing the view for Happy Places Detail Activity are added here.)-->
+    <color name="detail_screen_description_text_color">#757575</color>
+
+    <!--END-->
+</resources>
